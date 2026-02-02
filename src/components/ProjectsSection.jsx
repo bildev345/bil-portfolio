@@ -36,6 +36,15 @@ const projects = [
        tags : ["C#", "ADO.net", "Microsoft Sql Server", "Winforms", "3-tier architecture"],
        demoUrl : "#",
        githubUrl : "https://github.com/bildev345/driving-license-management"
+    },
+    {
+      id : 5,
+      title : "Gestion de processus des incriptions doctorales",
+      description : "Une application web de gestion des inscriptions dans le cycle de doctorat, avec différents roles(candidat, professeur, directeur de labo, ...) réalisé par spring boot et react js et mysql comme RDBMS",
+      image : "/projects/edoctorat.jpg",
+      tags : ["React", "CSS", "Spring boot", "MySQL", "Spring security", "Spring Data JPA"],
+      demoUrl : "#",
+      githubUrl : "https://github.com/bildev345/edoctorat_web_app"
     }
 ]
 
